@@ -14,7 +14,7 @@ Dengan Analisis Statis:
 Dengan Analisis Dinamis:
 1. Cross-Site Request Forgery (CSRF) (CWE-352)
 
-Untuk login ke web gunakan:\nuser : admin\npass : admin
+Untuk login ke web gunakan user = admin dan pass = admin
 
 NOTE: SILAHKAN DISESUAIKAN DENGAN SISTEM ANDA (Pengaturan Functions.php, database, dll) JIKA INGIN MELAKUKAN DYNAMIC TESTING (CSRF, dll)
 
